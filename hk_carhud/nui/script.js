@@ -6,7 +6,7 @@ $(function(){
             $('.revo').show(250) // mostrar carhud
             $('.velocity').text(Math.round(e.velocidad) + '');
             $(".fuelprogin").css({"width": Math.round(e.fuel) + "%"});
-            $('.revo-left, .revo-right').css({'width' : Math.round(e.rpm- 50) + '%'});
+            $('.revo-left, .revo-right').css({'width' : Math.round(e.rpm - 50) + '%'});
 
             if (e.vida <= 60) {
                 $('#motor-icon').css({'color': 'rgb(216, 198, 40)', 'animation': 'pulse .8s infinite'});
