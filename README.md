@@ -1,4 +1,4 @@
-# hk_carhud
+# hsk_carhud
 Carhud simple desarrollado por mí para todos vosotros. Tiene función de revoluciones y vida de motor con indicador de color.
 
 Espero que lo disfrutéis!!!
